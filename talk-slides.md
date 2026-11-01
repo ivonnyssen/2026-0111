@@ -169,13 +169,19 @@ Example from Rusty Photon - my astrophotography app
 
 # What Never Changes
 
-- Team performance depends on everyone knowing that everyone else is pulling their weight. Be the Shepherd and the Wolf.
-- Everyone will always think your team can do better. Leadership is air cover.
+- Be the Shepherd and the Wolf.
+- Leadership is air cover.
 - If you did not show your team how to win, they will make up their own goals.
-- Your attention is a spotlight. Where you focus it, the problems migrate elsewhere.
+- Your attention is a spotlight.
 - Your future is not in tech, it is in business.
 
-> Notes: ~1:30. Moved to the end so it works as the summary and the "one thing never changes" payoff from the opening. Dropped from slide, keep for Q&A: fire the "this cannot be done" people, connect your teams to your customers, expect failure and fail fast.
+> Notes: ~1:30. Moved to the end so it works as the summary and the "one thing never changes" payoff from the opening.
+> Spoken halves:
+> - Shepherd and the Wolf: team performance depends on everyone knowing that everyone else is pulling their weight. You protect the flock and you remove the ones who are not.
+> - Air cover: everyone will always think your team can do better. Your job is to absorb that so they can work.
+> - How to win: if you did not show your team what winning looks like, they will make up their own goals and priorities, and they will be wrong in ways you cannot see.
+> - Spotlight: where you focus your attention, things improve. The problems do not disappear, they migrate to wherever you are not looking.
+> Dropped from slide, keep for Q&A: fire the "this cannot be done" people, connect your teams to your customers, expect failure and fail fast.
 
 ---
 
