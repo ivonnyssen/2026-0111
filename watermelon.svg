@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" width="1600" height="800">
+
+<defs><clipPath id="c1"><circle cx="450" cy="400" r="260"/></clipPath></defs>
+<circle cx="450" cy="400" r="260" fill="#16A34A"/>
+<g clip-path="url(#c1)"><path d="M250,146 Q210,400 250,654 L278,654 Q238,400 278,146 Z" fill="#15803D" opacity="0.9"/><path d="M312,146 Q290,400 312,654 L340,654 Q318,400 340,146 Z" fill="#15803D" opacity="0.9"/><path d="M374,146 Q370,400 374,654 L402,654 Q398,400 402,146 Z" fill="#15803D" opacity="0.9"/><path d="M436,146 Q450,400 436,654 L464,654 Q478,400 464,146 Z" fill="#15803D" opacity="0.9"/><path d="M498,146 Q530,400 498,654 L526,654 Q558,400 526,146 Z" fill="#15803D" opacity="0.9"/><path d="M560,146 Q610,400 560,654 L588,654 Q638,400 588,146 Z" fill="#15803D" opacity="0.9"/><path d="M622,146 Q690,400 622,654 L650,654 Q718,400 650,146 Z" fill="#15803D" opacity="0.9"/></g>
+<circle cx="450" cy="400" r="260" fill="none" stroke="#15803D" stroke-width="4"/>
+<!-- stem -->
+<path d="M450,138 q-6,-40 24,-58" fill="none" stroke="#365314" stroke-width="12" stroke-linecap="round"/>
+<ellipse cx="360" cy="280" rx="46" ry="22" transform="rotate(-40 360 280)" fill="#FFFFFF" opacity="0.22"/>
+<circle cx="1150" cy="400" r="260" fill="#16A34A" stroke="#15803D" stroke-width="4"/>
+<circle cx="1150" cy="400" r="234" fill="#DCFCE7"/>
+<circle cx="1150" cy="400" r="212" fill="#DC2626"/>
+<ellipse cx="1150" cy="280" rx="8" ry="15" transform="rotate(0 1150 280)" fill="#1F2937"/><ellipse cx="1220" cy="330" rx="8" ry="15" transform="rotate(45 1220 330)" fill="#1F2937"/><ellipse cx="1080" cy="330" rx="8" ry="15" transform="rotate(-45 1080 330)" fill="#1F2937"/><ellipse cx="1270" cy="400" rx="8" ry="15" transform="rotate(90 1270 400)" fill="#1F2937"/><ellipse cx="1030" cy="400" rx="8" ry="15" transform="rotate(270 1030 400)" fill="#1F2937"/><ellipse cx="1220" cy="470" rx="8" ry="15" transform="rotate(135 1220 470)" fill="#1F2937"/><ellipse cx="1080" cy="470" rx="8" ry="15" transform="rotate(225 1080 470)" fill="#1F2937"/><ellipse cx="1150" cy="520" rx="8" ry="15" transform="rotate(180 1150 520)" fill="#1F2937"/><ellipse cx="1150" cy="400" rx="8" ry="15" transform="rotate(90 1150 400)" fill="#1F2937"/><ellipse cx="1150" cy="360" rx="8" ry="15" transform="rotate(0 1150 360)" fill="#1F2937"/><ellipse cx="1150" cy="440" rx="8" ry="15" transform="rotate(180 1150 440)" fill="#1F2937"/>
+
+
+</svg>

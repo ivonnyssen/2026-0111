@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<text x="170" y="70" font-size="44" font-weight="600" fill="#1F2937">Connections grow faster than the team</text>
+<text x="170" y="118" font-size="28" fill="#64748B">Every new member must exchange information with everyone already on the team</text>
+<circle cx="170" cy="152" r="9" fill="#2563EB"/><text x="190" y="152" dominant-baseline="central" font-size="26" fill="#1F2937">Directed exchanges  n(n−1)</text>
+<circle cx="610" cy="152" r="9" fill="#D97706"/><text x="630" y="152" dominant-baseline="central" font-size="26" fill="#1F2937">Pairs  n(n−1)/2</text>
+<line x1="170" x2="1240" y1="860.0" y2="860.0" stroke="#94A3B8" stroke-width="2"/>
+<text x="152" y="860.0" text-anchor="end" dominant-baseline="central" font-size="26" fill="#64748B">0</text>
+<line x1="170" x2="1240" y1="785.6" y2="785.6" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="152" y="785.6" text-anchor="end" dominant-baseline="central" font-size="26" fill="#64748B">10</text>
+<line x1="170" x2="1240" y1="711.1" y2="711.1" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="152" y="711.1" text-anchor="end" dominant-baseline="central" font-size="26" fill="#64748B">20</text>
+<line x1="170" x2="1240" y1="636.7" y2="636.7" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="152" y="636.7" text-anchor="end" dominant-baseline="central" font-size="26" fill="#64748B">30</text>
+<line x1="170" x2="1240" y1="562.2" y2="562.2" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="152" y="562.2" text-anchor="end" dominant-baseline="central" font-size="26" fill="#64748B">40</text>
+<line x1="170" x2="1240" y1="487.8" y2="487.8" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="152" y="487.8" text-anchor="end" dominant-baseline="central" font-size="26" fill="#64748B">50</text>
+<line x1="170" x2="1240" y1="413.3" y2="413.3" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="152" y="413.3" text-anchor="end" dominant-baseline="central" font-size="26" fill="#64748B">60</text>
+<line x1="170" x2="1240" y1="338.9" y2="338.9" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="152" y="338.9" text-anchor="end" dominant-baseline="central" font-size="26" fill="#64748B">70</text>
+<line x1="170" x2="1240" y1="264.4" y2="264.4" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="152" y="264.4" text-anchor="end" dominant-baseline="central" font-size="26" fill="#64748B">80</text>
+<line x1="170" x2="1240" y1="190.0" y2="190.0" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="152" y="190.0" text-anchor="end" dominant-baseline="central" font-size="26" fill="#64748B">90</text>
+<text x="170.0" y="902" text-anchor="middle" font-size="26" fill="#64748B">2</text>
+<text x="303.8" y="902" text-anchor="middle" font-size="26" fill="#64748B">3</text>
+<text x="437.5" y="902" text-anchor="middle" font-size="26" fill="#64748B">4</text>
+<text x="571.3" y="902" text-anchor="middle" font-size="26" fill="#64748B">5</text>
+<text x="705.0" y="902" text-anchor="middle" font-size="26" fill="#64748B">6</text>
+<text x="838.8" y="902" text-anchor="middle" font-size="26" fill="#64748B">7</text>
+<text x="972.5" y="902" text-anchor="middle" font-size="26" fill="#64748B">8</text>
+<text x="1106.3" y="902" text-anchor="middle" font-size="26" fill="#64748B">9</text>
+<text x="1240.0" y="902" text-anchor="middle" font-size="26" fill="#64748B">10</text>
+<text x="705.0" y="955" text-anchor="middle" font-size="28" fill="#1F2937">Team size (people)</text>
+<text transform="translate(60 525.0) rotate(-90)" text-anchor="middle" font-size="28" fill="#1F2937">Connections</text>
+<path d="M170.0,845.1 L303.8,815.3 L437.5,770.7 L571.3,711.1 L705.0,636.7 L838.8,547.3 L972.5,443.1 L1106.3,324.0 L1240.0,190.0" fill="none" stroke="#2563EB" stroke-width="4" stroke-linejoin="round"/>
+<path d="M170.0,852.6 L303.8,837.7 L437.5,815.3 L571.3,785.6 L705.0,748.3 L838.8,703.7 L972.5,651.6 L1106.3,592.0 L1240.0,525.0" fill="none" stroke="#D97706" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="170.0" cy="845.1" r="9" fill="#2563EB" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="170.0" cy="852.6" r="9" fill="#D97706" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="303.8" cy="815.3" r="9" fill="#2563EB" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="303.8" cy="837.7" r="9" fill="#D97706" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="437.5" cy="770.7" r="9" fill="#2563EB" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="437.5" cy="815.3" r="9" fill="#D97706" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="571.3" cy="711.1" r="9" fill="#2563EB" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="571.3" cy="785.6" r="9" fill="#D97706" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="705.0" cy="636.7" r="9" fill="#2563EB" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="705.0" cy="748.3" r="9" fill="#D97706" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="838.8" cy="547.3" r="9" fill="#2563EB" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="838.8" cy="703.7" r="9" fill="#D97706" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="972.5" cy="443.1" r="9" fill="#2563EB" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="972.5" cy="651.6" r="9" fill="#D97706" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="1106.3" cy="324.0" r="9" fill="#2563EB" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="1106.3" cy="592.0" r="9" fill="#D97706" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="1240.0" cy="190.0" r="9" fill="#2563EB" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="1240.0" cy="525.0" r="9" fill="#D97706" stroke="#FFFFFF" stroke-width="3"/>
+<text x="166.0" y="821.1" text-anchor="middle" font-size="26" font-weight="600" fill="#1F2937">2</text>
+<text x="192.0" y="866.6" text-anchor="start" font-size="26" font-weight="600" fill="#1F2937">1</text>
+<text x="958.5" y="421.1" text-anchor="middle" font-size="26" font-weight="600" fill="#1F2937">56</text>
+<text x="988.5" y="689.6" text-anchor="middle" font-size="26" font-weight="600" fill="#1F2937">28</text>
+<text x="1264.0" y="190.0" text-anchor="start" font-size="26" font-weight="600" fill="#1F2937">90</text>
+<text x="1264.0" y="525.0" text-anchor="start" font-size="26" font-weight="600" fill="#1F2937">45</text>
+<text x="1320.0" y="190.0" dominant-baseline="central" font-size="24" fill="#64748B">exchanges</text>
+<text x="1320.0" y="525.0" dominant-baseline="central" font-size="24" fill="#64748B">pairs</text>
+</svg>
