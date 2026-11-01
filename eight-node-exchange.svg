@@ -65,19 +65,19 @@
   </g>
   <!-- nodes -->
   <circle cx="800.0" cy="240.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="800.0" y="240.0" text-anchor="middle" dominant-baseline="central" font-size="72" font-weight="600" fill="#334155">A</text>
+  <text x="800.0" y="240.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Ana</text>
   <circle cx="1196.0" cy="404.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="1196.0" y="404.0" text-anchor="middle" dominant-baseline="central" font-size="72" font-weight="600" fill="#334155">B</text>
+  <text x="1196.0" y="404.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Ben</text>
   <circle cx="1360.0" cy="800.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="1360.0" y="800.0" text-anchor="middle" dominant-baseline="central" font-size="72" font-weight="600" fill="#334155">C</text>
+  <text x="1360.0" y="800.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Chen</text>
   <circle cx="1196.0" cy="1196.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="1196.0" y="1196.0" text-anchor="middle" dominant-baseline="central" font-size="72" font-weight="600" fill="#334155">D</text>
+  <text x="1196.0" y="1196.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Dev</text>
   <circle cx="800.0" cy="1360.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="800.0" y="1360.0" text-anchor="middle" dominant-baseline="central" font-size="72" font-weight="600" fill="#334155">E</text>
+  <text x="800.0" y="1360.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Eva</text>
   <circle cx="404.0" cy="1196.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="404.0" y="1196.0" text-anchor="middle" dominant-baseline="central" font-size="72" font-weight="600" fill="#334155">F</text>
+  <text x="404.0" y="1196.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Finn</text>
   <circle cx="240.0" cy="800.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="240.0" y="800.0" text-anchor="middle" dominant-baseline="central" font-size="72" font-weight="600" fill="#334155">G</text>
+  <text x="240.0" y="800.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Gia</text>
   <circle cx="404.0" cy="404.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="404.0" y="404.0" text-anchor="middle" dominant-baseline="central" font-size="72" font-weight="600" fill="#334155">H</text>
+  <text x="404.0" y="404.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Hugo</text>
 </svg>

@@ -33,45 +33,59 @@ The worst manager on the planet to not get fired.
 
 ---
 
+# 8, 32, 128, 512
+
+## Why these numbers
+
+> Notes: ~0:20. Set the stage: these are not round numbers, they are the points where the math forces a new layer. The next slides show why.
+
+---
+
 # 2 People
 
-> Visual: two-node-exchange.png
+> Visual: two-node-exchange.png (full slide, no headline)
 > Notes: ~1:00 for this and the next slide. Two people, two directions of information flow. Everything is a conversation.
 
 ---
 
 # 8 People
 
-> Visual: eight-node-exchange.png
+> Visual: eight-node-exchange.png (full slide, no headline)
 > Notes: 8 people, 56 directed exchanges. Still works because everyone is in the room.
 
 ---
 
 # Connections Outgrow the Team
 
-> Visual: connections-build-1.png
+> Visual: connections-build-1.png (full slide, no headline)
 > Notes: ~1:30 over three clicks. Click 1: what people expect, linear.
 
 ---
 
 # Connections Outgrow the Team
 
-> Visual: connections-build-2.png
+> Visual: connections-build-2.png (full slide, no headline)
 > Notes: Click 2: reality up to 6.
 
 ---
 
 # Connections Outgrow the Team
 
-> Visual: connections-build-3.png
+> Visual: connections-build-3.png (full slide, no headline)
 > Notes: Click 3: 6 to 10, where it stops being a team. The layering is forced on you by the math, not a choice.
 
 ---
 
 # So You Add a Layer
 
-> Visual: org-hierarchy.png
+> Visual: org-hierarchy.png (full slide, no headline)
 > Notes: ~0:30. 8, 32, 128, 512: each number is where a new layer appears, and each layer changes your job.
+
+---
+
+# What Happens at Each Layer
+
+> Notes: ~0:10. Transition from the math to the job. Four layers, four different jobs, one figure that loses a little more freedom each time.
 
 ---
 
@@ -104,7 +118,11 @@ You are deaf and blind.
 
 # The Weekly Review
 
-Owner · Last update · Last status · Today’s status
+Last updated
+
+Status: last / today
+
+Risk & Owner
 
 > Visual: watermelon.png
 > Notes: ~1:30. The most concrete, reusable thing in the talk.
