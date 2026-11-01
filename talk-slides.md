@@ -69,6 +69,7 @@ I was the worst manager on the planet to not get fired.
 
 **Your job is to say no.** (for the most part)
 
+> Visual: figure-free.png (unimpeded figure, start of the four-step series)
 > Notes: ~2:30. Full information means your value is deciding, not gathering. Pick the right process and expect it to change under pressure. Process efficiency, what comes next, think outside the box: spoken, not on slide.
 
 ---
@@ -80,6 +81,7 @@ I was the worst manager on the planet to not get fired.
 
 **Your job is to find a way to say yes.**
 
+> Visual: figure-deaf-blind.png (adds blindfold and earmuffs)
 > Notes: ~1:00. The biggest cognitive shift in the whole progression. Set up the next slide.
 
 ---
@@ -87,12 +89,13 @@ I was the worst manager on the planet to not get fired.
 # The Weekly Review
 
 - Critical projects only
+- Owner, Last Update, Last Status, Today's Status
 - Brevity: issues hide behind words
 - Risks and owners, or it's all watermelons
 - This is uncomfortable for you and for your teams
 
 > Visual: watermelon.png
-> Notes: ~1:30. The most concrete, reusable thing in the talk. Make the reversal from the 8 slide explicit: say no, then say yes.
+> Notes: ~1:30. The most concrete, reusable thing in the talk. The columns are deliberately boring; the discipline is in the comparison between last status and today's status. A project that has been green for weeks with no risks listed is the watermelon: green outside, red inside.
 
 ---
 
@@ -109,6 +112,7 @@ I was the worst manager on the planet to not get fired.
 
 **Your job is to make your organization self-sufficient.**
 
+> Visual: figure-bound.png (adds straitjacket)
 > Notes: ~2:00. Cadence is the point. Your only way to scale is to build your directs.
 
 ---
@@ -142,6 +146,7 @@ Repeat yourself. Nobody hears you the first time, or the tenth.
 **Anecdotes**
 Pick one defect that disagrees with your mental model and chase it down. 9 out of 10 reveal something important.
 
+> Visual: figure-bound-gag.png (adds gag)
 > Notes: ~3:00. Placed and order for the next day and could not add items. Where I should have been able to. Followed up with the team and they told me that is by design, when the pick window closes. But it was the previous day, so the explanation did not hold water. There was a bug involving time zones and the feature was inaccessible to customers. There was also no metric to show whether customers were using the feature, so we had built it, deployed it, claimed victory and it did not work - silently; it is the best material in the deck. Spoken: goal reviews become education sessions for you and your team. Speed is your job: experimentation, learning, delivery, decisions. The leaves of the org tree are still the most knowledgeable people: connect, travel, connect again. Your job is still systems engineering, focus on information flow.
 
 ---
