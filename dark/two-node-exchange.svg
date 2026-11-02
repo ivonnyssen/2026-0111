@@ -1,23 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" width="1600" height="800" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
-  <defs>
-    <marker id="head" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
-      <path d="M0,0 L10,5 L0,10 z" fill="#60A5FA"/>
-    </marker>
-  </defs>
-
-  <!-- node A -->
-  <circle cx="350" cy="400" r="140" fill="#1E293B" stroke="#CBD5E1" stroke-width="8"/>
-  <text x="350" y="400" text-anchor="middle" dominant-baseline="central" font-size="64" font-weight="600" fill="#CBD5E1">Ana</text>
-
-  <!-- node B -->
-  <circle cx="1250" cy="400" r="140" fill="#1E293B" stroke="#CBD5E1" stroke-width="8"/>
-  <text x="1250" y="400" text-anchor="middle" dominant-baseline="central" font-size="64" font-weight="600" fill="#CBD5E1">Ben</text>
-
-  <!-- A -> B (top) -->
-  <path d="M474.5,312.8 Q800,140 1125.5,312.8" fill="none" stroke="#60A5FA" stroke-width="8" stroke-linecap="round" marker-end="url(#head)"/>
-  <text x="800" y="200" text-anchor="middle" font-size="40" fill="#60A5FA">information</text>
-
-  <!-- B -> A (bottom) -->
-  <path d="M1125.5,487.2 Q800,660 474.5,487.2" fill="none" stroke="#60A5FA" stroke-width="8" stroke-linecap="round" marker-end="url(#head)"/>
-  <text x="800" y="625" text-anchor="middle" font-size="40" fill="#60A5FA">information</text>
+<defs><marker id="head" viewBox="0 0 10 10" refX="1.5" refY="5" markerUnits="userSpaceOnUse" markerWidth="28" markerHeight="28" orient="auto"><path d="M0,0.5 L10,5 L0,9.5 z" fill="#60A5FA"/></marker></defs>
+<circle cx="350" cy="400" r="140" fill="#1E293B" stroke="#CBD5E1" stroke-width="8"/>
+<text x="350" y="400" text-anchor="middle" dominant-baseline="central" font-size="64" font-weight="600" fill="#CBD5E1">Ana</text>
+<circle cx="1250" cy="400" r="140" fill="#1E293B" stroke="#CBD5E1" stroke-width="8"/>
+<text x="1250" y="400" text-anchor="middle" dominant-baseline="central" font-size="64" font-weight="600" fill="#CBD5E1">Ben</text>
+<path d="M476.4,327.0 Q800.0,140.0 1103.0,315.1" fill="none" stroke="#60A5FA" stroke-width="8" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1123.6,473.0 Q800.0,660.0 497.0,484.9" fill="none" stroke="#60A5FA" stroke-width="8" stroke-linecap="butt" marker-end="url(#head)"/>
+<text x="800" y="150" text-anchor="middle" font-size="40" fill="#60A5FA">information</text>
+<text x="800" y="680" text-anchor="middle" font-size="40" fill="#60A5FA">information</text>
 </svg>

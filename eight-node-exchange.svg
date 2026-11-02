@@ -1,83 +1,77 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1600" width="1600" height="1600" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
-  <defs>
-    <marker id="head" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
-      <path d="M0,0 L10,5 L0,10 z" fill="#2563EB"/>
-    </marker>
-  </defs>
-  <!-- 56 directed arrows, 28 pairs -->
-  <g fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="round" opacity="0.85">
-    <path d="M911.7,251.4 Q1018.5,272.6 1108.9,333.1" marker-end="url(#head)"/>
-    <path d="M901.0,289.0 Q1166.0,434.0 1311.0,699.0" marker-end="url(#head)"/>
-    <path d="M875.4,323.0 Q1154.2,653.3 1190.6,1084.0" marker-end="url(#head)"/>
-    <path d="M838.5,346.4 Q985.5,800.0 838.5,1253.6" marker-end="url(#head)"/>
-    <path d="M794.6,352.0 Q758.2,782.7 479.4,1113.0" marker-end="url(#head)"/>
-    <path d="M751.0,341.0 Q606.0,606.0 341.0,751.0" marker-end="url(#head)"/>
-    <path d="M712.9,310.9 Q622.5,371.4 515.7,392.6" marker-end="url(#head)"/>
-    <path d="M1084.3,392.6 Q977.5,371.4 887.1,310.9" marker-end="url(#head)"/>
-    <path d="M1266.9,491.1 Q1327.4,581.5 1348.6,688.3" marker-end="url(#head)"/>
-    <path d="M1232.7,510.1 Q1317.6,800.0 1232.7,1089.9" marker-end="url(#head)"/>
-    <path d="M1190.6,516.0 Q1154.2,946.7 875.4,1277.0" marker-end="url(#head)"/>
-    <path d="M1148.0,506.5 Q931.2,931.2 506.5,1148.0" marker-end="url(#head)"/>
-    <path d="M1113.0,479.4 Q782.7,758.2 352.0,794.6" marker-end="url(#head)"/>
-    <path d="M1089.9,440.8 Q800.0,525.7 510.1,440.8" marker-end="url(#head)"/>
-    <path d="M1259.0,751.0 Q994.0,606.0 849.0,341.0" marker-end="url(#head)"/>
-    <path d="M1289.1,712.9 Q1228.6,622.5 1207.4,515.7" marker-end="url(#head)"/>
-    <path d="M1348.6,911.7 Q1327.4,1018.5 1266.9,1108.9" marker-end="url(#head)"/>
-    <path d="M1311.0,901.0 Q1166.0,1166.0 901.0,1311.0" marker-end="url(#head)"/>
-    <path d="M1277.0,875.4 Q946.7,1154.2 516.0,1190.6" marker-end="url(#head)"/>
-    <path d="M1253.6,838.5 Q800.0,985.5 346.4,838.5" marker-end="url(#head)"/>
-    <path d="M1248.0,794.6 Q817.3,758.2 487.0,479.4" marker-end="url(#head)"/>
-    <path d="M1120.6,1113.0 Q841.8,782.7 805.4,352.0" marker-end="url(#head)"/>
-    <path d="M1159.2,1089.9 Q1074.3,800.0 1159.2,510.1" marker-end="url(#head)"/>
-    <path d="M1207.4,1084.3 Q1228.6,977.5 1289.1,887.1" marker-end="url(#head)"/>
-    <path d="M1108.9,1266.9 Q1018.5,1327.4 911.7,1348.6" marker-end="url(#head)"/>
-    <path d="M1089.9,1232.7 Q800.0,1317.6 510.1,1232.7" marker-end="url(#head)"/>
-    <path d="M1084.0,1190.6 Q653.3,1154.2 323.0,875.4" marker-end="url(#head)"/>
-    <path d="M1093.5,1148.0 Q668.8,931.2 452.0,506.5" marker-end="url(#head)"/>
-    <path d="M761.5,1253.6 Q614.5,800.0 761.5,346.4" marker-end="url(#head)"/>
-    <path d="M805.4,1248.0 Q841.8,817.3 1120.6,487.0" marker-end="url(#head)"/>
-    <path d="M849.0,1259.0 Q994.0,994.0 1259.0,849.0" marker-end="url(#head)"/>
-    <path d="M887.1,1289.1 Q977.5,1228.6 1084.3,1207.4" marker-end="url(#head)"/>
-    <path d="M688.3,1348.6 Q581.5,1327.4 491.1,1266.9" marker-end="url(#head)"/>
-    <path d="M699.0,1311.0 Q434.0,1166.0 289.0,901.0" marker-end="url(#head)"/>
-    <path d="M724.6,1277.0 Q445.8,946.7 409.4,516.0" marker-end="url(#head)"/>
-    <path d="M409.4,1084.0 Q445.8,653.3 724.6,323.0" marker-end="url(#head)"/>
-    <path d="M452.0,1093.5 Q668.8,668.8 1093.5,452.0" marker-end="url(#head)"/>
-    <path d="M487.0,1120.6 Q817.3,841.8 1248.0,805.4" marker-end="url(#head)"/>
-    <path d="M510.1,1159.2 Q800.0,1074.3 1089.9,1159.2" marker-end="url(#head)"/>
-    <path d="M515.7,1207.4 Q622.5,1228.6 712.9,1289.1" marker-end="url(#head)"/>
-    <path d="M333.1,1108.9 Q272.6,1018.5 251.4,911.7" marker-end="url(#head)"/>
-    <path d="M367.3,1089.9 Q282.4,800.0 367.3,510.1" marker-end="url(#head)"/>
-    <path d="M289.0,699.0 Q434.0,434.0 699.0,289.0" marker-end="url(#head)"/>
-    <path d="M323.0,724.6 Q653.3,445.8 1084.0,409.4" marker-end="url(#head)"/>
-    <path d="M346.4,761.5 Q800.0,614.5 1253.6,761.5" marker-end="url(#head)"/>
-    <path d="M352.0,805.4 Q782.7,841.8 1113.0,1120.6" marker-end="url(#head)"/>
-    <path d="M341.0,849.0 Q606.0,994.0 751.0,1259.0" marker-end="url(#head)"/>
-    <path d="M310.9,887.1 Q371.4,977.5 392.6,1084.3" marker-end="url(#head)"/>
-    <path d="M251.4,688.3 Q272.6,581.5 333.1,491.1" marker-end="url(#head)"/>
-    <path d="M491.1,333.1 Q581.5,272.6 688.3,251.4" marker-end="url(#head)"/>
-    <path d="M510.1,367.3 Q800.0,282.4 1089.9,367.3" marker-end="url(#head)"/>
-    <path d="M516.0,409.4 Q946.7,445.8 1277.0,724.6" marker-end="url(#head)"/>
-    <path d="M506.5,452.0 Q931.2,668.8 1148.0,1093.5" marker-end="url(#head)"/>
-    <path d="M479.4,487.0 Q758.2,817.3 794.6,1248.0" marker-end="url(#head)"/>
-    <path d="M440.8,510.1 Q525.7,800.0 440.8,1089.9" marker-end="url(#head)"/>
-    <path d="M392.6,515.7 Q371.4,622.5 310.9,712.9" marker-end="url(#head)"/>
-  </g>
-  <!-- nodes -->
-  <circle cx="800.0" cy="240.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="800.0" y="240.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Ana</text>
-  <circle cx="1196.0" cy="404.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="1196.0" y="404.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Ben</text>
-  <circle cx="1360.0" cy="800.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="1360.0" y="800.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Chen</text>
-  <circle cx="1196.0" cy="1196.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="1196.0" y="1196.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Dev</text>
-  <circle cx="800.0" cy="1360.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="800.0" y="1360.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Eva</text>
-  <circle cx="404.0" cy="1196.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="404.0" y="1196.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Finn</text>
-  <circle cx="240.0" cy="800.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="240.0" y="800.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Gia</text>
-  <circle cx="404.0" cy="404.0" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
-  <text x="404.0" y="404.0" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Hugo</text>
+<defs><marker id="head" viewBox="0 0 10 10" refX="1.5" refY="5" markerUnits="userSpaceOnUse" markerWidth="28" markerHeight="28" orient="auto"><path d="M0,0.5 L10,5 L0,9.5 z" fill="#2563EB"/></marker></defs>
+<g opacity="0.85">
+<path d="M902.0,260.2 Q1014.4,282.4 1089.8,332.9" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M886.5,297.7 Q1136.0,464.0 1289.1,693.7" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M857.9,326.4 Q1093.6,678.4 1171.2,1070.6" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M820.4,342.0 Q912.0,800.0 825.1,1234.7" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M779.8,342.0 Q697.6,757.6 475.1,1089.8" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M742.3,326.5 Q576.0,576.0 346.3,729.1" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M713.6,297.9 Q618.4,361.6 529.4,379.2" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1094.0,383.8 Q981.6,361.6 906.2,311.1" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1253.8,490.4 Q1317.6,585.6 1335.2,674.6" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1216.4,506.0 Q1275.2,800.0 1221.0,1070.7" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1175.8,506.0 Q1093.6,921.6 871.1,1253.8" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1138.3,490.6 Q879.2,879.2 510.4,1125.1" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1109.6,461.9 Q757.6,697.6 365.4,775.2" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1094.0,424.4 Q800.0,483.2 529.3,429.1" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1273.5,742.3 Q1024.0,576.0 870.9,346.3" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1302.1,713.6 Q1238.4,618.4 1220.8,529.4" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1339.8,902.0 Q1317.6,1014.4 1267.1,1089.8" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1302.3,886.5 Q1136.0,1136.0 906.3,1289.1" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1273.6,857.9 Q921.6,1093.6 529.4,1171.2" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1258.0,820.4 Q800.0,912.0 365.3,825.1" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1258.0,779.8 Q842.4,697.6 510.2,475.1" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1138.1,1109.6 Q902.4,757.6 824.8,365.4" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1175.6,1094.0 Q1116.8,800.0 1170.9,529.3" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1216.2,1094.0 Q1238.4,981.6 1288.9,906.2" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1109.6,1253.8 Q1014.4,1317.6 925.4,1335.2" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1094.0,1216.4 Q800.0,1275.2 529.3,1221.0" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1094.0,1175.8 Q678.4,1093.6 346.2,871.1" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M1109.4,1138.3 Q720.8,879.2 474.9,510.4" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M779.6,1258.0 Q688.0,800.0 774.9,365.3" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M820.2,1258.0 Q902.4,842.4 1124.9,510.2" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M857.7,1273.5 Q1024.0,1024.0 1253.7,870.9" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M886.4,1302.1 Q981.6,1238.4 1070.6,1220.8" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M698.0,1339.8 Q585.6,1317.6 510.2,1267.1" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M713.5,1302.3 Q464.0,1136.0 310.9,906.3" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M742.1,1273.6 Q506.4,921.6 428.8,529.4" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M424.2,1094.0 Q506.4,678.4 728.9,346.2" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M461.7,1109.4 Q720.8,720.8 1089.6,474.9" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M490.4,1138.1 Q842.4,902.4 1234.6,824.8" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M506.0,1175.6 Q800.0,1116.8 1070.7,1170.9" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M506.0,1216.2 Q618.4,1238.4 693.8,1288.9" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M346.2,1109.6 Q282.4,1014.4 264.8,925.4" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M383.6,1094.0 Q324.8,800.0 379.0,529.3" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M297.7,713.5 Q464.0,464.0 693.7,310.9" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M326.4,742.1 Q678.4,506.4 1070.6,428.8" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M342.0,779.6 Q800.0,688.0 1234.7,774.9" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M342.0,820.2 Q757.6,902.4 1089.8,1124.9" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M326.5,857.7 Q576.0,1024.0 729.1,1253.7" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M297.9,886.4 Q361.6,981.6 379.2,1070.6" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M260.2,698.0 Q282.4,585.6 332.9,510.2" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M490.4,346.2 Q585.6,282.4 674.6,264.8" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M506.0,383.6 Q800.0,324.8 1070.7,379.0" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M506.0,424.2 Q921.6,506.4 1253.8,728.9" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M490.6,461.7 Q879.2,720.8 1125.1,1089.6" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M461.9,490.4 Q697.6,842.4 775.2,1234.6" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M424.4,506.0 Q483.2,800.0 429.1,1070.7" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+<path d="M383.8,506.0 Q361.6,618.4 311.1,693.8" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="butt" marker-end="url(#head)"/>
+</g>
+<circle cx="800" cy="240" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
+<text x="800" y="240" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Ana</text>
+<circle cx="1195.9797974644666" cy="404.02020253553343" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
+<text x="1195.9797974644666" y="404.02020253553343" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Ben</text>
+<circle cx="1360" cy="800" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
+<text x="1360" y="800" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Chen</text>
+<circle cx="1195.9797974644666" cy="1195.9797974644666" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
+<text x="1195.9797974644666" y="1195.9797974644666" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Dev</text>
+<circle cx="800" cy="1360" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
+<text x="800" y="1360" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Eva</text>
+<circle cx="404.02020253553343" cy="1195.9797974644666" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
+<text x="404.02020253553343" y="1195.9797974644666" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Finn</text>
+<circle cx="240" cy="800.0000000000001" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
+<text x="240" y="800.0000000000001" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Gia</text>
+<circle cx="404.0202025355333" cy="404.02020253553343" r="100" fill="#F1F5F9" stroke="#334155" stroke-width="7"/>
+<text x="404.0202025355333" y="404.02020253553343" text-anchor="middle" dominant-baseline="central" font-size="48" font-weight="600" fill="#334155">Hugo</text>
 </svg>

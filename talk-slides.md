@@ -5,8 +5,6 @@
 Igor von Nyssen
 Director of Technology, Amazon
 
-The views expressed in this talk and presentation are my own and do not necessarily represent the view of the company I work at.
-
 > Notes: 20 minutes talk, 20 minutes Q&A. ~0:30 here.
 
 ---
@@ -28,14 +26,14 @@ The worst manager on the planet to not get fired.
 
 2013 Amazon
 
+The views expressed in this talk and presentation are my own and do not necessarily represent the view of the company I work at.
+
 > Visual: photo on the right half
 > Notes: ~0:30. Today: Supply Chain for Amazon Grocery, operations and tech. One line, move on.
 
 ---
 
-# 8, 32, 128, 512
-
-## Why these numbers
+## “The single biggest problem in communication is the illusion that it has taken place.” – George Bernard Shaw
 
 > Notes: ~0:20. Set the stage: these are not round numbers, they are the points where the math forces a new layer. The next slides show why.
 
@@ -141,7 +139,7 @@ You can steer 12 times a year.
 
 “As of mm/dd we are COLOR, because …”
 
-**Make your organization self-sufficient.**
+**Your job is to make your organization self-sufficient.**
 
 > Visual: figure-bound.png
 > Notes: ~2:00. Cadence is the point. You can steer 12 times a year, but your teams can be way more agile.
@@ -182,6 +180,8 @@ Common Sense.
 Language.
 
 Anecdotes.
+
+**Your job is speed and urgency.**
 
 > Visual: figure-bound-gag.png
 > Notes: ~3:00.

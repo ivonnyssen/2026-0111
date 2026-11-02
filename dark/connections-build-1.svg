@@ -1,37 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 920" width="1600" height="920" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
-<line x1="170" x2="214" y1="60" y2="60" stroke="#94A3B8" stroke-width="4" stroke-dasharray="12 10"/><text x="228" y="60" dominant-baseline="central" font-size="26" fill="#F8FAFC">What people expect</text>
-<line x1="170" x2="1240" y1="780.0" y2="780.0" stroke="#94A3B8" stroke-width="2"/>
-<text x="152" y="780.0" text-anchor="end" dominant-baseline="central" font-size="26" fill="#94A3B8">0</text>
-<line x1="170" x2="1240" y1="707.8" y2="707.8" stroke="#334155" stroke-width="1.5"/>
-<text x="152" y="707.8" text-anchor="end" dominant-baseline="central" font-size="26" fill="#94A3B8">10</text>
-<line x1="170" x2="1240" y1="635.6" y2="635.6" stroke="#334155" stroke-width="1.5"/>
-<text x="152" y="635.6" text-anchor="end" dominant-baseline="central" font-size="26" fill="#94A3B8">20</text>
-<line x1="170" x2="1240" y1="563.3" y2="563.3" stroke="#334155" stroke-width="1.5"/>
-<text x="152" y="563.3" text-anchor="end" dominant-baseline="central" font-size="26" fill="#94A3B8">30</text>
-<line x1="170" x2="1240" y1="491.1" y2="491.1" stroke="#334155" stroke-width="1.5"/>
-<text x="152" y="491.1" text-anchor="end" dominant-baseline="central" font-size="26" fill="#94A3B8">40</text>
-<line x1="170" x2="1240" y1="418.9" y2="418.9" stroke="#334155" stroke-width="1.5"/>
-<text x="152" y="418.9" text-anchor="end" dominant-baseline="central" font-size="26" fill="#94A3B8">50</text>
-<line x1="170" x2="1240" y1="346.7" y2="346.7" stroke="#334155" stroke-width="1.5"/>
-<text x="152" y="346.7" text-anchor="end" dominant-baseline="central" font-size="26" fill="#94A3B8">60</text>
-<line x1="170" x2="1240" y1="274.4" y2="274.4" stroke="#334155" stroke-width="1.5"/>
-<text x="152" y="274.4" text-anchor="end" dominant-baseline="central" font-size="26" fill="#94A3B8">70</text>
-<line x1="170" x2="1240" y1="202.2" y2="202.2" stroke="#334155" stroke-width="1.5"/>
-<text x="152" y="202.2" text-anchor="end" dominant-baseline="central" font-size="26" fill="#94A3B8">80</text>
-<line x1="170" x2="1240" y1="130.0" y2="130.0" stroke="#334155" stroke-width="1.5"/>
-<text x="152" y="130.0" text-anchor="end" dominant-baseline="central" font-size="26" fill="#94A3B8">90</text>
-<text x="170.0" y="822" text-anchor="middle" font-size="26" fill="#94A3B8">2</text>
-<text x="303.8" y="822" text-anchor="middle" font-size="26" fill="#94A3B8">3</text>
-<text x="437.5" y="822" text-anchor="middle" font-size="26" fill="#94A3B8">4</text>
-<text x="571.3" y="822" text-anchor="middle" font-size="26" fill="#94A3B8">5</text>
-<text x="705.0" y="822" text-anchor="middle" font-size="26" fill="#94A3B8">6</text>
-<text x="838.8" y="822" text-anchor="middle" font-size="26" fill="#94A3B8">7</text>
-<text x="972.5" y="822" text-anchor="middle" font-size="26" fill="#94A3B8">8</text>
-<text x="1106.3" y="822" text-anchor="middle" font-size="26" fill="#94A3B8">9</text>
-<text x="1240.0" y="822" text-anchor="middle" font-size="26" fill="#94A3B8">10</text>
-<text x="705.0" y="875" text-anchor="middle" font-size="28" fill="#F8FAFC">Team size (people)</text>
-<text transform="translate(60 455.0) rotate(-90)" text-anchor="middle" font-size="28" fill="#F8FAFC">Connections</text>
-<path d="M170.0,765.6 L1240.0,707.8" fill="none" stroke="#94A3B8" stroke-width="4" stroke-dasharray="14 12" stroke-linecap="round"/>
-<text x="1264.0" y="707.8" dominant-baseline="central" font-size="26" font-weight="600" fill="#F8FAFC">10</text>
-<text x="1312.0" y="707.8" dominant-baseline="central" font-size="24" fill="#94A3B8">expected</text>
+<line x1="200" x2="1190" y1="566.6666666666667" y2="566.6666666666667" stroke="#334155" stroke-width="1.5"/>
+<line x1="200" x2="1190" y1="343.33333333333337" y2="343.33333333333337" stroke="#334155" stroke-width="1.5"/>
+<line x1="200" x2="1190" y1="120" y2="120" stroke="#334155" stroke-width="1.5"/>
+<line x1="200" x2="1190" y1="790" y2="790" stroke="#475569" stroke-width="2"/>
+<text x="180" y="790" text-anchor="end" dominant-baseline="central" font-size="34" fill="#94A3B8">0</text>
+<text x="180" y="566.6666666666667" text-anchor="end" dominant-baseline="central" font-size="34" fill="#94A3B8">30</text>
+<text x="180" y="343.33333333333337" text-anchor="end" dominant-baseline="central" font-size="34" fill="#94A3B8">60</text>
+<text x="180" y="120" text-anchor="end" dominant-baseline="central" font-size="34" fill="#94A3B8">90</text>
+<text x="200" y="836" text-anchor="middle" font-size="34" fill="#94A3B8">2</text>
+<text x="323.75" y="836" text-anchor="middle" font-size="34" fill="#94A3B8">3</text>
+<text x="447.5" y="836" text-anchor="middle" font-size="34" fill="#94A3B8">4</text>
+<text x="571.25" y="836" text-anchor="middle" font-size="34" fill="#94A3B8">5</text>
+<text x="695" y="836" text-anchor="middle" font-size="34" fill="#94A3B8">6</text>
+<text x="818.75" y="836" text-anchor="middle" font-size="34" fill="#94A3B8">7</text>
+<text x="942.5" y="836" text-anchor="middle" font-size="34" fill="#94A3B8">8</text>
+<text x="1066.25" y="836" text-anchor="middle" font-size="34" fill="#94A3B8">9</text>
+<text x="1190" y="836" text-anchor="middle" font-size="34" fill="#94A3B8">10</text>
+<text x="695" y="892" text-anchor="middle" font-size="36" fill="#F8FAFC">Team size (people)</text>
+<text transform="translate(66 455) rotate(-90)" text-anchor="middle" font-size="36" fill="#F8FAFC">Connections</text>
+<line x1="200" x2="256" y1="56" y2="56" stroke="#6B7280" stroke-width="4" stroke-dasharray="16 14" stroke-linecap="round"/><text x="272" y="56" dominant-baseline="central" font-size="36" fill="#F8FAFC">What people expect</text>
+<path d="M200,775.1111111111111 L1190,715.5555555555555" fill="none" stroke="#6B7280" stroke-width="4" stroke-dasharray="16 14" stroke-linecap="round"/>
+<text x="1216" y="715.5555555555555" dominant-baseline="central" font-size="40" font-weight="600" fill="#F8FAFC">10</text><text x="1290" y="715.5555555555555" dominant-baseline="central" font-size="34" fill="#94A3B8">expected</text>
 </svg>
