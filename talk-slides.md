@@ -196,9 +196,13 @@ Anecdotes.
 
 # Tenets
 
-Bad tenet: **We will deliver high quality software for our customers.**
+## Bad tenet
 
-Good tenet (unless you know better ones): **Make the best use of night time.** Clear, dark hours are the scarce resource; everything else (build time, code size, convenience) is negotiable against it. (Rusty Photon, my astrophotography app)
+We will deliver high quality software for our customers.
+
+## Good tenet (unless you know better ones)
+
+Make the best use of night time. Clear, dark hours are the scarce resource; everything else (build time, code size, convenience) is negotiable against it. (Rusty Photon, my astrophotography app)
 
 > Notes: A good tenet is sharp, displays a trade-off, and is not a tautology. The second sentence is what makes it sharp: it names the scarce resource and what gets traded against it.
 
